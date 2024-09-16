@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FrancisOtia
-- 👀 I’m interested in GIS Analysis, Web Mapping etch
+- 👀 I’m interested in GIS Analysis, Web Mapping etc.
 - 💞️ I’m looking to collaborate on Geospatial projects
 - 📫 How to reach me francisotia@gmail.com
 - 😄 Pronouns: He/She
